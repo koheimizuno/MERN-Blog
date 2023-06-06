@@ -10,7 +10,7 @@
 
 React, Redux, Typescript, TailwindCSS
 
-### Set port
+## Set port
 
 .env
 
