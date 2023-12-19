@@ -4,7 +4,7 @@ const cors = require("cors");
 const dbConfig = require("./app/config/db.config");
 const app = express();
 var corsOptions = {
-  origin: "http://localhost:8081",
+  origin: "http://localhost:8001",
 };
 app.use(cors(corsOptions));
 // parse requests of content-type - application/json
